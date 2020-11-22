@@ -1,6 +1,7 @@
 # Solve 'em
-> Scripts to decrypt random ciphers...
+![](https://img.shields.io/badge/Cipher-Decoder-blue)![]()
+> This repository contains scripts to decrypt random ciphers...
 ---
-* [A1Z26](A1Z26_decoder.py) (`A=1, Z=26`)
-* [b3A1Z26](b3A1Z26_decoder.py) (`base3 + A1Z26`)
-* [DNA](dnad.py) (`Binary data, DNA codon, multi DNA Algo decoder`)
+## Check Wiki for Docs : [![](https://img.shields.io/badge/Goto-Wiki-success)](https://github.com/r3yc0n1c/project-Oreki/wiki#welcome-to-the-project-oreki-wiki)
+
+#### Feel free to Contribute! Thanks!
